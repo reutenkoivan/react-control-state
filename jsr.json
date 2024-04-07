@@ -1,0 +1,5 @@
+{
+  "name": "@react-control/flow",
+  "version": "1.0.2",
+  "exports": "./src/main.ts"
+}
